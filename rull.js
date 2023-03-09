@@ -36,9 +36,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
+global.sig = 'https://instagram.com/fahadflava'
 global.tautanwa = 'https://wa.me/message/'
-global.sgh = 'https://github.com/khrlmstfa' //github
+global.sgh = 'https://github.com/siesta012' //github
 global.sgc = '' //group whatsapp
 global.sdc = '-' //discord
 global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
@@ -48,20 +48,20 @@ global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 global.wame = 'https://wa.me/message/'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['62', 'HadzFlava', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
+global.nomorbot = '+6285158858516' //pasang no bot lo 
+global.nomorown = '+6285871488418' //pasang no own lo
 global.nomorown1 = ''
 global.nomorown2 = ''
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
-global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
-global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
+global.nameown = 'FahadFlava'
+global.gcname = 'OtakuChindo'
+global.author = 'Dibuat Oleh Hadzz'
+global.namebot = 'HadzBotMD'
+global.packname2 = 'HadzBitMD꩜'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ API AI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺ 
 /*Lolhuman*/
@@ -97,16 +97,16 @@ global.nameown2 = '  ꩜'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
-global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 HadzBotMD'
+global.wm2 = 'HadzBotMD'
 global.packname = wm
 global.watermark = wm
 global.titlebot = namebot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '/𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.stickauth = `BOT By ©𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗`
+global.stickpack = '/HadzBotMD'
+global.stickauth = `BOT By ©HadzBotMD`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -118,17 +118,17 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *𝕽𝖚𝖑𝖑* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
+global.botintro = 'Hallo, Saya HadzBotMD akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *FahadFlava* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
 global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.Linkgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
+global.Linkgc = 'https://chat.whatsapp.com/Flv64bM5131Kpbr6DhxiLq'
 global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '' //pasang no lo sinih buat donasi 
+global.pdana = 'PC AJA OWNERNYA !!' //pasang no lo sinih buat donasi 
 global.povo = '-' 
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
